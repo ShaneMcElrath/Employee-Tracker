@@ -9,4 +9,5 @@ A command line application that helps keep track and manage employees.
 * Inquirer
 * MySQL
 
-
+## Walk Through Video
+https://watch.screencastify.com/v/CCRFOtyo7TQZemHXbJIZ
